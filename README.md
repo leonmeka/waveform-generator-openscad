@@ -4,6 +4,8 @@ A proof of concept for transforming Audio Waveforms into printable 3D models usi
 This script generates a 3D model of an audio waveform.
 It takes an audio file as input and creates a 3D model in OpenSCAD format.
 
+<img width="556" alt="Bildschirmfoto 2023-12-01 um 21 22 26" src="https://github.com/leonmeka/waveform-poc-openscad/assets/15350962/4c16620b-ee35-472f-8564-6bd42eba14ff">
+
 ## Dependencies:
 Run `pip install -r requirements.txt` to install the required dependencies.
 
